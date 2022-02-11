@@ -7,10 +7,10 @@ namespace DungeonsAndDragons.Razas.Draconidos
     { 
 
         public SangreDragon() {
-            this.raza = "Draconido";
+            this.raza = "Draconido pero con partes de pruebas.";
             this.subraza = "SangreDragon";
 
-            this.tamaño = "Mediano";
+            this.tamanyo = "Mediano";
             this.velocidad = "30 pies";
 
             this.habilidades = new String[] { "Linaje Dracónico", "Arma de Aliento", "Resistencia al daño" };

@@ -1,0 +1,12 @@
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\DungeonsAndDragons.exe
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\DungeonsAndDragons.dll
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\DungeonsAndDragons.deps.json
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\DungeonsAndDragons.runtimeconfig.json
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\DungeonsAndDragons.pdb
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Server\Desktop\DungeonsAndDragonsAPI\DungeonsAndDragons\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
