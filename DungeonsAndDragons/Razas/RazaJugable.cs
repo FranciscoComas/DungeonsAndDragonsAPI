@@ -4,7 +4,7 @@
     {
         public string raza { get; set; }
         public string subraza { get; set; }
-        public string tamaño { get; set; }
+        public string tamanyo { get; set; }
         public string velocidad { get; set; }
         public string[] habilidades { get; set; }
         public string[] idiomas { get; set; }

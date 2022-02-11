@@ -1,5 +1,18 @@
 var builder = WebApplication.CreateBuilder(args);
 
+//CORS FOR TESTING
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+                      builder =>
+                      {
+                          builder.WithOrigins("http://garciablasco.tk",
+                                              "http://localhost:8100");
+                      });
+});
+
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -17,6 +30,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(MyAllowSpecificOrigins);
 
 app.UseAuthorization();
 
