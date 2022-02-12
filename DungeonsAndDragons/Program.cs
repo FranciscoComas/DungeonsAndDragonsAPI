@@ -8,7 +8,8 @@ builder.Services.AddCors(options =>
                       builder =>
                       {
                           builder.WithOrigins("http://garciablasco.tk",
-                                              "http://localhost:8100");
+                                              "http://localhost:8100",
+                                              "http://localhost:8082");
                       });
 });
 
