@@ -1,6 +1,7 @@
-﻿using DungeonsAndDragons.Razas.Draconidos;
+﻿using DungeonsAndDragons.Razas;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using System;
 
 namespace DungeonsAndDragons.Controllers.RazasJugables.Draconidos
 {
@@ -15,10 +16,10 @@ namespace DungeonsAndDragons.Controllers.RazasJugables.Draconidos
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetSangreDragonBase")]
+        [HttpGet]
         public string GetSangreDragonBase()
         {
-            SangreDragon sangreDragon = new SangreDragon();
+            RazaJugable sangreDragon = new RazaJugable();
             string sangreDragonstring = JsonConvert.SerializeObject(sangreDragon, Formatting.Indented);
             return sangreDragonstring;
         }
